@@ -71,6 +71,12 @@ section {
     background-position: center;
     position: relative;
 }
+/* Privacy-polciy Hero Section */
+.hero .hero-secondary {
+background-color: black;
+color: red;
+}
+/* Privacy-policy Hero Section Ends */
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
